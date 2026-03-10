@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "casestry-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d4b11810-86fc-4d69-9cb7-cfa4ed7f9905",
+			"database_name": "casestry-api"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
